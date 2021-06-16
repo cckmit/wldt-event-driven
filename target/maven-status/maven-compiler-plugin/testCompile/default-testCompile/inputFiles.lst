@@ -1,0 +1,16 @@
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/processing/TestProcessingStep.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/dummy/WldtDummyProcess.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/MqttSenmlBuilderProcessingStep.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/WldtExampleMqttProcess.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/TopicsLookupTester.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/MqttTopicChangeStep.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/coap/WldtCoapProcess.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/coap/TestCoapProcessingStep.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/processing/ProcessingTester.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/MqttAverageProcessingStep.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/processing/TestPipelineData.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/coap/TestCoapProcess.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/DemoDataStructure.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/DummyWldtMqttProcess.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/MqttCommandTopicChangeStep.java
+/Users/marcopicone/Desktop/University&Research/Src-GIT/WLDT/wldt-core/src/test/java/it/unimore/wldt/test/mqtt/MqttPayloadChangeStep.java

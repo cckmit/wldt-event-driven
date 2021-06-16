@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <servers>
+        <server>
+            <username>marco.picone@unimore.it</username>
+            <password>AP45kw1UfmbtsSnA7z3AzZ5psk3ABigdVaRSjXuP8gZ7kRRdP</password>
+            <id>central</id>
+        </server>
+        <server>
+            <username>marco.picone@unimore.it</username>
+            <password>AP45kw1UfmbtsSnA7z3AzZ5psk3ABigdVaRSjXuP8gZ7kRRdP</password>
+            <id>snapshots</id>
+        </server>
+    </servers>
+    <profiles>
+        <profile>
+            <repositories>
+                <repository>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                    <id>central</id>
+                    <name>dipi-maven-libs-release</name>
+                    <url>https://dipiresearch.jfrog.io/artifactory/dipi-maven-libs-release</url>
+                </repository>
+                <repository>
+                    <snapshots />
+                    <id>snapshots</id>
+                    <name>dipi-maven-libs-snapshot</name>
+                    <url>https://dipiresearch.jfrog.io/artifactory/dipi-maven-libs-snapshot</url>
+                </repository>
+            </repositories>
+            <pluginRepositories>
+                <pluginRepository>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                    <id>central</id>
+                    <name>dipi-maven-libs-release</name>
+                    <url>https://dipiresearch.jfrog.io/artifactory/dipi-maven-libs-release</url>
+                </pluginRepository>
+                <pluginRepository>
+                    <snapshots />
+                    <id>snapshots</id>
+                    <name>dipi-maven-libs-snapshot</name>
+                    <url>https://dipiresearch.jfrog.io/artifactory/dipi-maven-libs-snapshot</url>
+                </pluginRepository>
+            </pluginRepositories>
+            <id>artifactory</id>
+        </profile>
+    </profiles>
+    <activeProfiles>
+        <activeProfile>artifactory</activeProfile>
+    </activeProfiles>
+</settings>
